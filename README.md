@@ -1,6 +1,6 @@
 # Safe to Try
 
-**Safe to Try** is a cooperative card-based game to explore and practice decision-making by consent, inspired by Sociocracy 3.0.
+**Safe to Try** is a cooperative card-based game to explore and practice decision-making by consent, inspired by [Sociocracy 3.0.](https://sociocracy30.org).
 
 Players face real-world challenges through cards representing shared contexts, personal constraints, emotional roles, and group values. Through structured rounds, the group listens, reflects, raises objections, and adapts proposals—until they find a solution that’s “good enough for now, and safe enough to try.”
 
